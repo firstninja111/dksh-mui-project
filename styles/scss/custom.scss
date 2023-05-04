@@ -1,0 +1,40 @@
+// .text-center {
+// 	text-align: center;
+// }
+
+// .home-logo-box {
+// 	text-align: center;
+// 	margin-top: 60px;
+// 	margin-bottom: 60px;
+// 	img {
+// 		width: 48px;
+// 		height: 48px;
+// 		margin-left: 10px;
+// 		margin-right: 10px;
+// 	}
+// }
+
+// body {
+// 	background: #131316;
+// }
+
+.MuiButton-label{
+	flex-direction: column;
+	gap: 5px;
+}
+
+.makeStyles-navLink-221,.makeStyles-button-97{
+	text-transform: initial !important;
+}
+
+* {
+	font-family: "Inter", sans-serif;
+  }
+
+.truncate {
+	display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
